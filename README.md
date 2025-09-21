@@ -2,6 +2,7 @@
   -  Zalohuje priecinok na lokalnu siet pomocou 7z
   -  Kontroluje pocet zaloh a maze viac ako 10 zaloh
   -  7z musi byt nainstalovany na predvolenej ceste, (C:\Program Files\7-Zip)
+  -  Spustat ako Administrator
 
 
 Uprav v skripte:
